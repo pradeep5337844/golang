@@ -1,0 +1,9 @@
+x+y: 31
+n-m:: 1
+a*c: 102
+x/m: 3
+y%m: 1
+b is : false
+not operation
+or operarion
+and operation
