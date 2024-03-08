@@ -1,0 +1,7 @@
+constant pi value is:  3.1415
+the values of a b and c before changing values 10 hello 0.112
+the values of a b and c after changing values 20 world 1.23
+the type of a is int
+the type of b is string
+the type of c is float32
+the type of pi is float64

@@ -1,0 +1,2 @@
+values of a and b is :  10 20
+addition of a and b is :  30
