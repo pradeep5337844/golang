@@ -1,0 +1,4 @@
+value of variable x is: 5
+address of variable x is: 0x1400009c018
+the value of x with x as a variable is 5
+the value of x with x as a pointer is 10
