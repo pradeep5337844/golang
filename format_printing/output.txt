@@ -1,0 +1,9 @@
+length of name is: 7
+pradeep is an engineer
+a is 20.129999 
+a formatted to 2 decimal point is 20.13 
+type of name is string 
+value of c is false 
+type of name is bool 
+b is 10 
+binary of 25 is 11001 
