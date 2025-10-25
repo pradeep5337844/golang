@@ -6,7 +6,7 @@ import (
 )
 func main(){
 	var wg sync.WaitGroup
-	ch:= make(chan int,2)
+	ch:= make(chan int)
 	go printnum(ch,&wg)
 	wg.Add(1)
 	for i:=0;i<100;i++{
